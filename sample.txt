@@ -1,1 +1,2 @@
-Manual Changes
+adding a new line
+This is a new line. haha
